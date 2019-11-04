@@ -1,0 +1,168 @@
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\YemekTarifiSite.dll.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\YemekTarifiSite.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\YemekTarifiSite.pdb
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\csc.exe
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\csc.exe.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\csc.rsp
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\csi.exe
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\csi.exe.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\csi.rsp
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.AppContext.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Console.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\vbc.exe
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\vbc.exe.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\vbc.rsp
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\obj\Debug\YemekTarifiSite.csprojAssemblyReference.cache
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\obj\Debug\YemekTarifiSite.csproj.CoreCompileInputs.cache
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\obj\Debug\YemekTarifiSite.csproj.CopyComplete
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\obj\Debug\YemekTarifiSite.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifiSite\YemekTarifiSite\obj\Debug\YemekTarifiSite.pdb
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\YemekTarifiSite.dll.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\YemekTarifiSite.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\YemekTarifiSite.pdb
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csc.exe
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csc.exe.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csc.rsp
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csi.exe
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csi.exe.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csi.rsp
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.AppContext.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Console.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\vbc.exe
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\vbc.exe.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\vbc.rsp
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.csprojAssemblyReference.cache
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.csproj.CoreCompileInputs.cache
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.csproj.CopyComplete
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.dll
+C:\Users\hekim\OneDrive\Masaüstü\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.pdb
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\YemekTarifiSite.dll.config
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\YemekTarifiSite.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\YemekTarifiSite.pdb
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csc.exe
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csc.exe.config
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csc.rsp
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csi.exe
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csi.exe.config
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\csi.rsp
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.AppContext.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Collections.Immutable.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Console.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.Compression.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.FileSystem.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.IO.Pipes.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.AccessControl.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Claims.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.ValueTuple.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Xml.XPath.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\vbc.exe
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\vbc.exe.config
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\vbc.rsp
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\VBCSCompiler.exe
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\roslyn\VBCSCompiler.exe.config
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.csprojAssemblyReference.cache
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.csproj.CoreCompileInputs.cache
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.csproj.CopyComplete
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.dll
+D:\Notlarım\Projects\ASP.NET Web Tabanlı Projeler\YemekTarifi Site\YemekTarifiSite\obj\Debug\YemekTarifiSite.pdb
